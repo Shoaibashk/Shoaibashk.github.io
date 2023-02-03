@@ -3,8 +3,12 @@ title: "About"
 date: 2023-02-02T19:12:08+05:30
 ---
 
-## Introduction
+## Hello there ❗
 
-This is **bold** text, and this is *emphasized* text.
+I'm Shoaib, a software developer from India 🇮🇳.
 
-Visit the [Hugo](https://gohugo.io) website!
+I do mostly web and mobile development.
+
+I like to work on (C#, Go, JavaScript/TypeScript, React, Flutter)
+
+Visit the [Github](https://github.com/shoaibashk) website!
