@@ -1,10 +1,11 @@
 ---
-title: "Dokcli An Open Source API Documentation Tool"
+title: "Dokcli An OpenAPI Documentation Tool"
 date: 2023-02-03T09:59:11+05:30
 # draft: true
 ---
 
-## Dokcli is an open source API Documentation tool, consisting of  :see_no_evil: :zap:
+
+## Dokcli is an OpenAPI Documentation tool, consisting of :zap: -
 
 - built-in Rapidoc web component
 - support Swagger & OpenAPI Spec
@@ -36,7 +37,7 @@ You can look at the help section in `./dokcli help`.
 
 ## Support 🤗
 
-The supported build targets by the non-cgo driver at the moment are:
+The supported build targets at the moment are:
 
 ```shell
 darwin  arm64
