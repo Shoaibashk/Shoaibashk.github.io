@@ -1,3 +1,143 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Shoaibashk</title><link>https://shoaibashk.github.io/projects/</link><description>Recent content in Projects on Shoaibashk</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Feb 2023 09:59:11 +0530</lastBuildDate><atom:link href="https://shoaibashk.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Dokcli An OpenAPI Documentation Tool</title><link>https://shoaibashk.github.io/projects/dokcli/</link><pubDate>Fri, 03 Feb 2023 09:59:11 +0530</pubDate><guid>https://shoaibashk.github.io/projects/dokcli/</guid><description>Dokcli is an OpenAPI Documentation tool, consisting of ⚡ - Link to heading built-in Rapidoc web component support Swagger &amp;amp; OpenAPI Spec Convenient way of hosting Api Documentation in 1 file For documentation and examples, please visit https://github.com/Shoaibashk/dokcli
-🚧 Please keep in mind that Dokcli is still under active development ⚗️ and therefore full backward compatibility is not guaranteed before reaching v1.0.0
-Overview ✨ Link to heading Dokcli could be downloaded directly as a standalone app for API Documentation using Swagger &amp;amp; OpenAPI spec file.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Shoaibashk</title><link>https://shoaibashk.github.io/projects/</link><description>Recent content in Projects on Shoaibashk</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Nov 2025 06:21:13 +0530</lastBuildDate><atom:link href="https://shoaibashk.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>BaudLink</title><link>https://shoaibashk.github.io/projects/baudlink/</link><pubDate>Fri, 28 Nov 2025 06:21:13 +0530</pubDate><guid>https://shoaibashk.github.io/projects/baudlink/</guid><description>&lt;h2 id="baudlink-"&gt;
+ BaudLink 🔗
+ &lt;a class="heading-link" href="#baudlink-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A Go-based project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Go&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/BaudLink" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/BaudLink&lt;/a&gt;&lt;/p&gt;</description></item><item><title>TicTacToe - React Game</title><link>https://shoaibashk.github.io/projects/tictactoe/</link><pubDate>Tue, 28 Jan 2025 13:38:29 +0530</pubDate><guid>https://shoaibashk.github.io/projects/tictactoe/</guid><description>&lt;h2 id="tictactoe-"&gt;
+ TicTacToe 🎮
+ &lt;a class="heading-link" href="#tictactoe-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A classic Tic Tac Toe game built with ReactJS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; ReactJS&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/TicTacToe" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/TicTacToe&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FreeConvert - File Format Converter</title><link>https://shoaibashk.github.io/projects/freeconvert/</link><pubDate>Sun, 19 Jan 2025 05:26:25 +0530</pubDate><guid>https://shoaibashk.github.io/projects/freeconvert/</guid><description>&lt;h2 id="freeconvert-"&gt;
+ FreeConvert ✨
+ &lt;a class="heading-link" href="#freeconvert-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Easily convert files from one format to another, online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; TypeScript&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/FreeConvert" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/FreeConvert&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Nanocom</title><link>https://shoaibashk.github.io/projects/nanocom/</link><pubDate>Sat, 10 Aug 2024 14:59:03 +0530</pubDate><guid>https://shoaibashk.github.io/projects/nanocom/</guid><description>&lt;h2 id="nanocom-"&gt;
+ Nanocom 🚀
+ &lt;a class="heading-link" href="#nanocom-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A project to be announced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Go&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/nanocom" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/nanocom&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Fox Spirit</title><link>https://shoaibashk.github.io/projects/fox/</link><pubDate>Fri, 20 Oct 2023 14:25:57 +0530</pubDate><guid>https://shoaibashk.github.io/projects/fox/</guid><description>&lt;h2 id="fox-"&gt;
+ Fox 🦊
+ &lt;a class="heading-link" href="#fox-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Fox Spirit project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; C++&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/fox" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/fox&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Learn .NET Core</title><link>https://shoaibashk.github.io/projects/learndotnet/</link><pubDate>Sat, 08 Jul 2023 06:25:40 +0530</pubDate><guid>https://shoaibashk.github.io/projects/learndotnet/</guid><description>&lt;h2 id="learn-net-core-"&gt;
+ Learn .NET Core 🎯
+ &lt;a class="heading-link" href="#learn-net-core-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Journey of .NET Core with Shoaibashk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; C#, .NET Core&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/learndotnet" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/learndotnet&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Vimanco - VS Code Key Bindings</title><link>https://shoaibashk.github.io/projects/vimanco/</link><pubDate>Sat, 24 Jun 2023 06:23:22 +0530</pubDate><guid>https://shoaibashk.github.io/projects/vimanco/</guid><description>&lt;h2 id="vimanco-"&gt;
+ Vimanco ⌨️
+ &lt;a class="heading-link" href="#vimanco-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Shoaib&amp;rsquo;s Key bindings for Visual Studio Code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; TypeScript&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/vimanco" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/vimanco&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Dokcli An OpenAPI Documentation Tool</title><link>https://shoaibashk.github.io/projects/dokcli/</link><pubDate>Fri, 03 Feb 2023 09:59:11 +0530</pubDate><guid>https://shoaibashk.github.io/projects/dokcli/</guid><description>&lt;h2 id="dokcli-is-an-openapi-documentation-tool-consisting-of-zap--"&gt;
+ Dokcli is an OpenAPI Documentation tool, consisting of :zap: -
+ &lt;a class="heading-link" href="#dokcli-is-an-openapi-documentation-tool-consisting-of-zap--"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;built-in Rapidoc web component&lt;/li&gt;
+&lt;li&gt;support Swagger &amp;amp; OpenAPI Spec&lt;/li&gt;
+&lt;li&gt;Convenient way of hosting Api Documentation in 1 file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For documentation and examples, please visit &lt;a href="https://github.com/Shoaibashk/dokcli" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/dokcli&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;:construction: Please keep in mind that Dokcli is still under active development :alembic: and therefore full backward compatibility is not guaranteed before reaching v1.0.0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="overview-"&gt;
+ Overview ✨
+ &lt;a class="heading-link" href="#overview-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Dokcli could be &lt;a href="https://github.com/Shoaibashk/dokcli/releases" class="external-link" target="_blank" rel="noopener"&gt;downloaded directly as a standalone app&lt;/a&gt; for API Documentation using Swagger &amp;amp; OpenAPI spec file.&lt;/p&gt;</description></item><item><title>Learn Go</title><link>https://shoaibashk.github.io/projects/learngo/</link><pubDate>Thu, 15 Dec 2022 14:03:51 +0530</pubDate><guid>https://shoaibashk.github.io/projects/learngo/</guid><description>&lt;h2 id="learn-go-"&gt;
+ Learn Go 🐹
+ &lt;a class="heading-link" href="#learn-go-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Learning Go programming language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Go&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/learngo" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/learngo&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Notas - Learning Never Exhausts the Mind</title><link>https://shoaibashk.github.io/projects/notas/</link><pubDate>Sun, 17 Jul 2022 08:12:36 +0530</pubDate><guid>https://shoaibashk.github.io/projects/notas/</guid><description>&lt;h2 id="notas-"&gt;
+ Notas 📚
+ &lt;a class="heading-link" href="#notas-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Learning never exhausts the mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Makefile&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/notas" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/notas&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Notes - Personal Knowledge Base</title><link>https://shoaibashk.github.io/projects/notes/</link><pubDate>Sat, 26 Sep 2020 11:19:27 +0530</pubDate><guid>https://shoaibashk.github.io/projects/notes/</guid><description>&lt;h2 id="notes-"&gt;
+ Notes 📝
+ &lt;a class="heading-link" href="#notes-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;My personal knowledge base and notes using MkDocs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, MkDocs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; mkdocs, python&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/notes" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Live site: &lt;a href="https://shoaibashk.github.io/notes/" class="external-link" target="_blank" rel="noopener"&gt;https://shoaibashk.github.io/notes/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>OpenCV Tutorial</title><link>https://shoaibashk.github.io/projects/opencv-tutorial/</link><pubDate>Fri, 28 Jun 2019 21:26:59 +0530</pubDate><guid>https://shoaibashk.github.io/projects/opencv-tutorial/</guid><description>&lt;h2 id="opencv-tutorial-"&gt;
+ OpenCV Tutorial 🖼️
+ &lt;a class="heading-link" href="#opencv-tutorial-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Image and Video Processing in Python Using OpenCV.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, OpenCV&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/OpenCV_Tutorial" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/OpenCV_Tutorial&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Bode Plot Analysis</title><link>https://shoaibashk.github.io/projects/bode-plot-analysis/</link><pubDate>Mon, 01 Apr 2019 20:14:53 +0530</pubDate><guid>https://shoaibashk.github.io/projects/bode-plot-analysis/</guid><description>&lt;h2 id="bode-plot-analysis-"&gt;
+ Bode Plot Analysis 📊
+ &lt;a class="heading-link" href="#bode-plot-analysis-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Bode Plot using Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/Bode-Plot-analysis" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/Bode-Plot-analysis&lt;/a&gt;&lt;/p&gt;</description></item><item><title>BlinkinFreQ - Arduino Timer</title><link>https://shoaibashk.github.io/projects/blinkinfreq/</link><pubDate>Tue, 22 Aug 2017 14:58:09 +0530</pubDate><guid>https://shoaibashk.github.io/projects/blinkinfreq/</guid><description>&lt;h2 id="blinkinfreq-"&gt;
+ BlinkinFreQ ⚡
+ &lt;a class="heading-link" href="#blinkinfreq-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Timer2 based Blinking LED with variable frequency for Arduino. Provides accurate and perfect frequency in ON and OFF states.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; C++, Arduino&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/BlinkinFreQ" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/BlinkinFreQ&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

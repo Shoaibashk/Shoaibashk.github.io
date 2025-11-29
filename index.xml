@@ -1,11 +1,183 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shoaibashk</title><link>https://shoaibashk.github.io/</link><description>Recent content on Shoaibashk</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Apr 2023 01:14:24 +0000</lastBuildDate><atom:link href="https://shoaibashk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Cross-Compile Golang Program for ARM32v6</title><link>https://shoaibashk.github.io/posts/golang/</link><pubDate>Tue, 04 Apr 2023 01:14:24 +0000</pubDate><guid>https://shoaibashk.github.io/posts/golang/</guid><description>Cross-compiling your Golang program for ARM32v6 architecture is not only possible but also quite easy to achieve. In this tutorial, we will provide you with an in-depth guide on how to cross-compile using a different operating system, ensuring that your program is compatible with the Raspberry Pi.
-Before getting started, we recommend that you have at least a basic understanding of Linux and Bash, as it will come in handy when navigating the command line interface and troubleshooting any issues that may arise during the installation process.</description></item><item><title>My Own Flutter Interview Questions</title><link>https://shoaibashk.github.io/posts/my-own-flutter-interview-questions/</link><pubDate>Mon, 03 Apr 2023 23:50:54 +0530</pubDate><guid>https://shoaibashk.github.io/posts/my-own-flutter-interview-questions/</guid><description>Here is my own collection of handpicked flutter interview questions for experienced flutter engineers.
-What is Flutter? Link to heading Flutter is an open-source mobile application development framework created by Google. It allows developers to build native-looking mobile applications for both Android and iOS platforms using a single codebase. Flutter uses the Dart programming language, which is also developed by Google, and offers a wide range of customizable widgets that can be used to create stunning user interfaces.</description></item><item><title>Prepare for Flutter Interview</title><link>https://shoaibashk.github.io/posts/prepare-for-flutter-interview/</link><pubDate>Mon, 03 Apr 2023 23:49:33 +0530</pubDate><guid>https://shoaibashk.github.io/posts/prepare-for-flutter-interview/</guid><description>How to prepare for flutter interview? Link to heading Preparing for a Flutter interview involves several steps, including reviewing the basics of the Flutter framework, familiarizing yourself with common interview questions, and practicing your coding skills. Here are some tips to help you prepare for a Flutter interview:
-Review the Flutter documentation: Familiarize yourself with the basics of the Flutter framework, including widgets, state management, and asynchronous programming. Read through the official Flutter documentation, and practice building small apps to solidify your understanding.</description></item><item><title>Flutter Common Interview Questions</title><link>https://shoaibashk.github.io/posts/flutter-common-interview-questions/</link><pubDate>Mon, 03 Apr 2023 23:44:06 +0530</pubDate><guid>https://shoaibashk.github.io/posts/flutter-common-interview-questions/</guid><description>Here are some common Flutter interview questions that you may encounter in a Flutter job interview:
-What is Flutter, and how does it work? Flutter is an open-source mobile application development framework developed by Google. It uses the Dart programming language and allows developers to build natively compiled applications for mobile, web, and desktop from a single codebase.
-What is the difference between Stateless and Stateful widgets in Flutter? Stateless widgets are widgets that do not change their state during the lifetime of the widget.</description></item><item><title>Contact</title><link>https://shoaibashk.github.io/contact/</link><pubDate>Fri, 03 Feb 2023 15:05:46 +0530</pubDate><guid>https://shoaibashk.github.io/contact/</guid><description/></item><item><title>Dokcli An OpenAPI Documentation Tool</title><link>https://shoaibashk.github.io/projects/dokcli/</link><pubDate>Fri, 03 Feb 2023 09:59:11 +0530</pubDate><guid>https://shoaibashk.github.io/projects/dokcli/</guid><description>Dokcli is an OpenAPI Documentation tool, consisting of ⚡ - Link to heading built-in Rapidoc web component support Swagger &amp;amp; OpenAPI Spec Convenient way of hosting Api Documentation in 1 file For documentation and examples, please visit https://github.com/Shoaibashk/dokcli
-🚧 Please keep in mind that Dokcli is still under active development ⚗️ and therefore full backward compatibility is not guaranteed before reaching v1.0.0
-Overview ✨ Link to heading Dokcli could be downloaded directly as a standalone app for API Documentation using Swagger &amp;amp; OpenAPI spec file.</description></item><item><title>About</title><link>https://shoaibashk.github.io/about/</link><pubDate>Thu, 02 Feb 2023 19:12:08 +0530</pubDate><guid>https://shoaibashk.github.io/about/</guid><description>Hello there ❗ Link to heading I&amp;rsquo;m Shoaib, a software developer from India 🇮🇳.
-I do mostly web and mobile development.
-I like to work on (C#, Go, JavaScript/TypeScript, React, Flutter)
-Visit the Github website!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shoaibashk</title><link>https://shoaibashk.github.io/</link><description>Recent content on Shoaibashk</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Nov 2025 06:21:13 +0530</lastBuildDate><atom:link href="https://shoaibashk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>BaudLink</title><link>https://shoaibashk.github.io/projects/baudlink/</link><pubDate>Fri, 28 Nov 2025 06:21:13 +0530</pubDate><guid>https://shoaibashk.github.io/projects/baudlink/</guid><description>&lt;h2 id="baudlink-"&gt;
+ BaudLink 🔗
+ &lt;a class="heading-link" href="#baudlink-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A Go-based project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Go&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/BaudLink" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/BaudLink&lt;/a&gt;&lt;/p&gt;</description></item><item><title>TicTacToe - React Game</title><link>https://shoaibashk.github.io/projects/tictactoe/</link><pubDate>Tue, 28 Jan 2025 13:38:29 +0530</pubDate><guid>https://shoaibashk.github.io/projects/tictactoe/</guid><description>&lt;h2 id="tictactoe-"&gt;
+ TicTacToe 🎮
+ &lt;a class="heading-link" href="#tictactoe-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A classic Tic Tac Toe game built with ReactJS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; ReactJS&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/TicTacToe" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/TicTacToe&lt;/a&gt;&lt;/p&gt;</description></item><item><title>FreeConvert - File Format Converter</title><link>https://shoaibashk.github.io/projects/freeconvert/</link><pubDate>Sun, 19 Jan 2025 05:26:25 +0530</pubDate><guid>https://shoaibashk.github.io/projects/freeconvert/</guid><description>&lt;h2 id="freeconvert-"&gt;
+ FreeConvert ✨
+ &lt;a class="heading-link" href="#freeconvert-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Easily convert files from one format to another, online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; TypeScript&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/FreeConvert" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/FreeConvert&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Nanocom</title><link>https://shoaibashk.github.io/projects/nanocom/</link><pubDate>Sat, 10 Aug 2024 14:59:03 +0530</pubDate><guid>https://shoaibashk.github.io/projects/nanocom/</guid><description>&lt;h2 id="nanocom-"&gt;
+ Nanocom 🚀
+ &lt;a class="heading-link" href="#nanocom-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A project to be announced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Go&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/nanocom" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/nanocom&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Fox Spirit</title><link>https://shoaibashk.github.io/projects/fox/</link><pubDate>Fri, 20 Oct 2023 14:25:57 +0530</pubDate><guid>https://shoaibashk.github.io/projects/fox/</guid><description>&lt;h2 id="fox-"&gt;
+ Fox 🦊
+ &lt;a class="heading-link" href="#fox-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Fox Spirit project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; C++&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/fox" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/fox&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Learn .NET Core</title><link>https://shoaibashk.github.io/projects/learndotnet/</link><pubDate>Sat, 08 Jul 2023 06:25:40 +0530</pubDate><guid>https://shoaibashk.github.io/projects/learndotnet/</guid><description>&lt;h2 id="learn-net-core-"&gt;
+ Learn .NET Core 🎯
+ &lt;a class="heading-link" href="#learn-net-core-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Journey of .NET Core with Shoaibashk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; C#, .NET Core&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/learndotnet" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/learndotnet&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Vimanco - VS Code Key Bindings</title><link>https://shoaibashk.github.io/projects/vimanco/</link><pubDate>Sat, 24 Jun 2023 06:23:22 +0530</pubDate><guid>https://shoaibashk.github.io/projects/vimanco/</guid><description>&lt;h2 id="vimanco-"&gt;
+ Vimanco ⌨️
+ &lt;a class="heading-link" href="#vimanco-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Shoaib&amp;rsquo;s Key bindings for Visual Studio Code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; TypeScript&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/vimanco" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/vimanco&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Cross-Compile Golang Program for ARM32v6</title><link>https://shoaibashk.github.io/posts/golang/</link><pubDate>Tue, 04 Apr 2023 01:14:24 +0000</pubDate><guid>https://shoaibashk.github.io/posts/golang/</guid><description>&lt;p&gt;Cross-compiling your Golang program for ARM32v6 architecture is not only possible but also quite easy to achieve. In this tutorial, we will provide you with an in-depth guide on how to cross-compile using a different operating system, ensuring that your program is compatible with the Raspberry Pi.&lt;/p&gt;
+&lt;p&gt;Before getting started, we recommend that you have at least a basic understanding of Linux and Bash, as it will come in handy when navigating the command line interface and troubleshooting any issues that may arise during the installation process.&lt;/p&gt;</description></item><item><title>My Own Flutter Interview Questions</title><link>https://shoaibashk.github.io/posts/my-own-flutter-interview-questions/</link><pubDate>Mon, 03 Apr 2023 23:50:54 +0530</pubDate><guid>https://shoaibashk.github.io/posts/my-own-flutter-interview-questions/</guid><description>&lt;p&gt;Here is my own collection of handpicked flutter interview questions for experienced flutter engineers.&lt;/p&gt;
+&lt;h2 id="what-is-flutter"&gt;
+ What is Flutter?
+ &lt;a class="heading-link" href="#what-is-flutter"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Flutter is an open-source mobile application development framework created by Google. It allows developers to build native-looking mobile applications for both Android and iOS platforms using a single codebase. Flutter uses the Dart programming language, which is also developed by Google, and offers a wide range of customizable widgets that can be used to create stunning user interfaces.&lt;/p&gt;</description></item><item><title>Prepare for Flutter Interview</title><link>https://shoaibashk.github.io/posts/prepare-for-flutter-interview/</link><pubDate>Mon, 03 Apr 2023 23:49:33 +0530</pubDate><guid>https://shoaibashk.github.io/posts/prepare-for-flutter-interview/</guid><description>&lt;h2 id="how-to-prepare-for-flutter-interview"&gt;
+ How to prepare for flutter interview?
+ &lt;a class="heading-link" href="#how-to-prepare-for-flutter-interview"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Preparing for a Flutter interview involves several steps, including reviewing the basics of the Flutter framework, familiarizing yourself with common interview questions, and practicing your coding skills. Here are some tips to help you prepare for a Flutter interview:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Review the Flutter documentation: Familiarize yourself with the basics of the Flutter framework, including widgets, state management, and asynchronous programming. Read through the official Flutter documentation, and practice building small apps to solidify your understanding.&lt;/p&gt;</description></item><item><title>Flutter Common Interview Questions</title><link>https://shoaibashk.github.io/posts/flutter-common-interview-questions/</link><pubDate>Mon, 03 Apr 2023 23:44:06 +0530</pubDate><guid>https://shoaibashk.github.io/posts/flutter-common-interview-questions/</guid><description>&lt;p&gt;Here are some common Flutter interview questions that you may encounter in a Flutter job interview:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is Flutter, and how does it work?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Flutter is an open-source mobile application development framework developed by Google. It uses the Dart programming language and allows developers to build natively compiled applications for mobile, web, and desktop from a single codebase.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;What is the difference between Stateless and Stateful widgets in Flutter?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stateless widgets are widgets that do not change their state during the lifetime of the widget. Stateful widgets, on the other hand, have a mutable state that can change during the widget&amp;rsquo;s lifetime.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://shoaibashk.github.io/contact/</link><pubDate>Fri, 03 Feb 2023 15:05:46 +0530</pubDate><guid>https://shoaibashk.github.io/contact/</guid><description/></item><item><title>Dokcli An OpenAPI Documentation Tool</title><link>https://shoaibashk.github.io/projects/dokcli/</link><pubDate>Fri, 03 Feb 2023 09:59:11 +0530</pubDate><guid>https://shoaibashk.github.io/projects/dokcli/</guid><description>&lt;h2 id="dokcli-is-an-openapi-documentation-tool-consisting-of-zap--"&gt;
+ Dokcli is an OpenAPI Documentation tool, consisting of :zap: -
+ &lt;a class="heading-link" href="#dokcli-is-an-openapi-documentation-tool-consisting-of-zap--"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;built-in Rapidoc web component&lt;/li&gt;
+&lt;li&gt;support Swagger &amp;amp; OpenAPI Spec&lt;/li&gt;
+&lt;li&gt;Convenient way of hosting Api Documentation in 1 file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For documentation and examples, please visit &lt;a href="https://github.com/Shoaibashk/dokcli" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/dokcli&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;:construction: Please keep in mind that Dokcli is still under active development :alembic: and therefore full backward compatibility is not guaranteed before reaching v1.0.0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="overview-"&gt;
+ Overview ✨
+ &lt;a class="heading-link" href="#overview-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Dokcli could be &lt;a href="https://github.com/Shoaibashk/dokcli/releases" class="external-link" target="_blank" rel="noopener"&gt;downloaded directly as a standalone app&lt;/a&gt; for API Documentation using Swagger &amp;amp; OpenAPI spec file.&lt;/p&gt;</description></item><item><title>About</title><link>https://shoaibashk.github.io/about/</link><pubDate>Thu, 02 Feb 2023 19:12:08 +0530</pubDate><guid>https://shoaibashk.github.io/about/</guid><description>&lt;h2 id="hello-there-"&gt;
+ Hello there ❗
+ &lt;a class="heading-link" href="#hello-there-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Shoaib, a software developer from India 🇮🇳.&lt;/p&gt;
+&lt;p&gt;I do mostly web and mobile development.&lt;/p&gt;
+&lt;p&gt;I like to work on (C#, Go, JavaScript/TypeScript, React, Flutter)&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href="https://github.com/shoaibashk" class="external-link" target="_blank" rel="noopener"&gt;Github&lt;/a&gt; website!&lt;/p&gt;</description></item><item><title>Learn Go</title><link>https://shoaibashk.github.io/projects/learngo/</link><pubDate>Thu, 15 Dec 2022 14:03:51 +0530</pubDate><guid>https://shoaibashk.github.io/projects/learngo/</guid><description>&lt;h2 id="learn-go-"&gt;
+ Learn Go 🐹
+ &lt;a class="heading-link" href="#learn-go-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Learning Go programming language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Go&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/learngo" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/learngo&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Notas - Learning Never Exhausts the Mind</title><link>https://shoaibashk.github.io/projects/notas/</link><pubDate>Sun, 17 Jul 2022 08:12:36 +0530</pubDate><guid>https://shoaibashk.github.io/projects/notas/</guid><description>&lt;h2 id="notas-"&gt;
+ Notas 📚
+ &lt;a class="heading-link" href="#notas-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Learning never exhausts the mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Makefile&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/notas" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/notas&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Notes - Personal Knowledge Base</title><link>https://shoaibashk.github.io/projects/notes/</link><pubDate>Sat, 26 Sep 2020 11:19:27 +0530</pubDate><guid>https://shoaibashk.github.io/projects/notes/</guid><description>&lt;h2 id="notes-"&gt;
+ Notes 📝
+ &lt;a class="heading-link" href="#notes-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;My personal knowledge base and notes using MkDocs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, MkDocs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; mkdocs, python&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/notes" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Live site: &lt;a href="https://shoaibashk.github.io/notes/" class="external-link" target="_blank" rel="noopener"&gt;https://shoaibashk.github.io/notes/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>OpenCV Tutorial</title><link>https://shoaibashk.github.io/projects/opencv-tutorial/</link><pubDate>Fri, 28 Jun 2019 21:26:59 +0530</pubDate><guid>https://shoaibashk.github.io/projects/opencv-tutorial/</guid><description>&lt;h2 id="opencv-tutorial-"&gt;
+ OpenCV Tutorial 🖼️
+ &lt;a class="heading-link" href="#opencv-tutorial-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Image and Video Processing in Python Using OpenCV.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, OpenCV&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/OpenCV_Tutorial" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/OpenCV_Tutorial&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Bode Plot Analysis</title><link>https://shoaibashk.github.io/projects/bode-plot-analysis/</link><pubDate>Mon, 01 Apr 2019 20:14:53 +0530</pubDate><guid>https://shoaibashk.github.io/projects/bode-plot-analysis/</guid><description>&lt;h2 id="bode-plot-analysis-"&gt;
+ Bode Plot Analysis 📊
+ &lt;a class="heading-link" href="#bode-plot-analysis-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Bode Plot using Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/Bode-Plot-analysis" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/Bode-Plot-analysis&lt;/a&gt;&lt;/p&gt;</description></item><item><title>BlinkinFreQ - Arduino Timer</title><link>https://shoaibashk.github.io/projects/blinkinfreq/</link><pubDate>Tue, 22 Aug 2017 14:58:09 +0530</pubDate><guid>https://shoaibashk.github.io/projects/blinkinfreq/</guid><description>&lt;h2 id="blinkinfreq-"&gt;
+ BlinkinFreQ ⚡
+ &lt;a class="heading-link" href="#blinkinfreq-"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Timer2 based Blinking LED with variable frequency for Arduino. Provides accurate and perfect frequency in ON and OFF states.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; C++, Arduino&lt;/p&gt;
+&lt;p&gt;For more details, visit &lt;a href="https://github.com/Shoaibashk/BlinkinFreQ" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/Shoaibashk/BlinkinFreQ&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
