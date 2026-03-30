@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">BaudLink</title>
+  <desc id="desc">BaudLink project card image with a serial bridge motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#155e75"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="110" r="180" fill="#22d3ee" fill-opacity="0.16"/>
+  <circle cx="160" cy="560" r="220" fill="#60a5fa" fill-opacity="0.14"/>
+  <g opacity="0.12" stroke="#dbeafe" fill="none">
+    <path d="M0 110H1200"/>
+    <path d="M0 220H1200"/>
+    <path d="M0 330H1200"/>
+    <path d="M0 440H1200"/>
+    <path d="M0 550H1200"/>
+  </g>
+  <path d="M710 205H840V265H950V350H1050" fill="none" stroke="url(#wire)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M710 425H820V365H910V300H1050" fill="none" stroke="url(#wire)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="72" y="74" width="560" height="482" rx="32" fill="#0f172a" fill-opacity="0.34" stroke="#67e8f9" stroke-opacity="0.35"/>
+  <text x="94" y="160" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">PROJECT</text>
+  <text x="92" y="282" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="94" font-weight="800">BaudLink</text>
+  <text x="96" y="356" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="42">Serial Bridge in Go</text>
+  <rect x="96" y="416" width="146" height="50" rx="25" fill="#11243a" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <rect x="256" y="416" width="168" height="50" rx="25" fill="#11243a" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <rect x="438" y="416" width="118" height="50" rx="25" fill="#11243a" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="132" y="448" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Go</text>
+  <text x="300" y="448" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">gRPC API</text>
+  <text x="468" y="448" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Serial</text>
+  <rect x="796" y="162" width="162" height="302" rx="24" fill="#0f172a" stroke="#7dd3fc" stroke-opacity="0.35"/>
+  <rect x="831" y="220" width="92" height="112" rx="16" fill="#12324a" stroke="#22d3ee" stroke-opacity="0.5"/>
+  <text x="877" y="282" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">CORE</text>
+  <rect x="986" y="188" width="124" height="58" rx="16" fill="#12324a" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <rect x="986" y="286" width="124" height="58" rx="16" fill="#12324a" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <rect x="986" y="384" width="124" height="58" rx="16" fill="#12324a" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="1048" y="224" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">CLI</text>
+  <text x="1048" y="322" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">WEB</text>
+  <text x="1048" y="420" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">PY</text>
+</svg>
