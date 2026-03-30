@@ -1,6 +1,7 @@
 ---
 title: Cross-Compile Golang Program for ARM32v6
 date: 2023-04-04T01:14:24.000Z
+featureimage: "img/cards/golang-arm32v6-card.svg"
 ---
 
 Cross-compiling your Golang program for ARM32v6 architecture is not only possible but also quite easy to achieve. In this tutorial, we will provide you with an in-depth guide on how to cross-compile using a different operating system, ensuring that your program is compatible with the Raspberry Pi. 
